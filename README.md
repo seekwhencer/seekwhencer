@@ -2,7 +2,7 @@
 
 **Senior Full-Stack Web Developer · IoT Enthusiast · Local AI & Generative UI**
 
-Node.js-focused full-stack developer with 20+ years of experience building complex web applications. I love the frontend, I build things that run on small computers, and I'm deep into local AI.
+Node.js-focused full-stack developer with 20+ years of experience building complex web applications. I love the frontend, I build things that run anywhere: from small computers to large-scale cloud-native setups. And I'm deep into local AI.
 
 I'm exploring **generative UI** — interfaces that compose and adapt themselves around the task instead of a fixed set of screens. And I care about **sovereign, on-prem AI**: running models on your own hardware, keeping your data, your stack and your autonomy in your own hands.
 
