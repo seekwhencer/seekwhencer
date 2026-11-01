@@ -169,6 +169,7 @@ I'm exploring **generative UI** — interfaces that compose and adapt themselves
 
 ## Get in touch
 
+- **Location:** Britz (16230), near Eberswalde — about 60 km north of Berlin, easily reachable for on-site work
 - [skwncr.net](https://skwncr.net)
 - [LinkedIn](https://www.linkedin.com/in/matthias-kallenbach-165860158/)
 - [matthias.kallenbach@skwncr.net](mailto:matthias.kallenbach@skwncr.net)
@@ -177,5 +178,5 @@ I'm exploring **generative UI** — interfaces that compose and adapt themselves
 ---
 
 <p align="center">
-  <sub>Built with ❤️, ☕ and a lot of local AI. Berlin / Britz.</sub>
+  <sub>Built with ❤️, ☕ and a lot of local AI. Britz near Eberswalde, close to Berlin.</sub>
 </p>
