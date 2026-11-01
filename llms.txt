@@ -1,0 +1,306 @@
+# MATTHIAS KALLENBACH
+
+Senior Frontend Engineer | Full-Stack Developer (Node.js) | IoT & Edge Computing | Local AI
+
+**Location:** Britz (16230), Germany
+**Phone:** +49 3334 4297029
+**Email:** matthias.kallenbach@gmail.com
+**Website:** https://skwncr.net
+**GitHub:** https://github.com/seekwhencer
+**LinkedIn:** https://www.linkedin.com/in/matthias-kallenbach-165860158/
+**YouTube:** https://www.youtube.com/@matthiaskallenbach
+**Languages:** German (native), English (advanced)
+
+---
+
+## PROFESSIONELLE ZUSAMMENFASSUNG
+
+Senior Frontend Engineer mit über 20 Jahren Erfahrung in der Entwicklung komplexer Webanwendungen. Node.js-fokussierter Full-Stack Developer mit Schwerpunkt auf performante, wartbare UI-Systeme (HTML, CSS, JavaScript, TypeScript, Web Components, React) und modernen Frontend-Architekturen. Nachweisbare Erfahrung in API-Entwicklung, Microservices, Systemintegration, Docker, CI/CD-Pipelines und SQL-Datenbanken. Mehrjährige Praxis im IoT-Umfeld (Raspberry Pi, ESP32, MQTT, Smart Home, Edge Computing). Aktuelle Schwerpunkte: Local AI (llama.cpp, Ollama, RAG, MCP) und Generative UI. Fokus auf saubere Architektur, Skalierbarkeit und zuverlässige Deployments.
+
+---
+
+## KERNKOMPETENZEN
+
+- Frontend Engineering und UI-Architektur
+- Full-Stack Entwicklung mit Node.js
+- API-Entwicklung und Microservices
+- Systemintegration und Schnittstellenentwicklung
+- IoT und Edge Computing
+- Smart Home und Sensorik
+- Local AI und RAG
+- Docker und Containerisierung
+- CI/CD und Deployment-Automatisierung
+- Performance-Optimierung
+- Technische Beratung und Architektur
+- Mentoring und Teamführung
+- Kundenkommunikation und Projektmanagement
+
+---
+
+## TECHNISCHE KENNTNISSE
+
+**Programmiersprachen:** JavaScript (ES6+), TypeScript, HTML5, CSS3/CSS4, PHP, Java, C, Lua, Bash, SQL
+
+**Frontend:** React, Next.js, Vue.js, Web Components, Astro.js, Vite, webpack, Rollup, SCSS, Less, Prettier, ESLint, StyleLint, jQuery, Google Closure Templates, SSR, CSR, HMR
+
+**Backend & APIs:** Node.js, REST API, WebSockets, Microservices, Strapi.js, Swagger, OpenAPI, MING-Stack, WordPress, TYPO3, Shopware 5, Zend Framework, Thymeleaf
+
+**Datenbanken:** MySQL, MariaDB, InfluxDB 2, Redis, Elasticsearch, Qdrant
+
+**DevOps & Infrastruktur:** Docker, Docker Compose, CI/CD, GitHub Actions, Jenkins, GitLab CI, nginx, Reverse Proxy (jwilder), Portainer, SSH-Tunneling, Multi-Arch Docker Images, Let's Encrypt
+
+**IoT & Embedded:** Raspberry Pi, ESP32, nodeMCU, Arduino, MQTT, Zigbee, 433 MHz (rtl_433), Sensoren und Aktoren
+
+**Local AI & ML:** llama.cpp, Ollama, RAG, MCP, Qdrant, Claude Code, opencode
+
+**Testing:** TestCafe, Cypress, Selenium, Nightwatch.js
+
+**Design & Medien:** Adobe Photoshop, Adobe Illustrator, Adobe InDesign, Adobe XD, Adobe After Effects, Figma, Affinity Designer, Inkscape, Lightwave 3D
+
+**Methoden & Tools:** Git, GitHub, GitHub Enterprise, Jira, Confluence, Kanban, Scrum, HTTP2, CORS, CSRF, Schema.org Microdata
+
+---
+
+## BERUFLICHE ERFAHRUNG
+
+### Senior Frontend Engineer / Freelancer
+Kleinunternehmer (Freelancer) | Britz, Germany | 01/2023 – Present
+
+- Entwickelte und pflege eine eigene Website-Infrastruktur (SSR/CSR, Data-Layer, Docker, nginx, CI/CD)
+- Entwickelte ein React-Plugin für Grafana 10 (Kachelcast-Wetterpanel)
+- Setzte Multi-Arch Docker Image Publishing und Deployment-Workflows auf
+- Entwickelte Microservices und Web-Apps mit Node.js
+- Realisierte Frontend-Bundling für ESP32-Geräte
+- Vertiefte Expertise in Web Components, Vanilla JavaScript, TypeScript, React und Next.js
+- Arbeitete an Local-AI-Projekten (llama.cpp, Ollama, RAG, MCP)
+
+**Technologien:** ES6+, TypeScript, SCSS, Vite, Prettier, Strapi, Astro.js, Docker, React, Next.js, Grafana, GitHub Actions, InfluxDB 2, MQTT, webpack 6, MING-Stack, WordPress, ESP32, Linux
+
+### Frontend Developer
+SYNERGY-NETWORKS GmbH | Halle (Saale), Germany | 10/2020 – 12/2022
+
+- Organisierte unternehmensweit technische Arbeitsabläufe neu und etablierte die Nutzung von Git
+- Setzte mehrere Kundenprojekte (Shops) mit Docker für die lokale Entwicklung auf, sodass mehrere Entwickler parallel arbeiten konnten
+- Entwickelte Frontend-Themes für Shopware-Shops
+- Erweiterte Frontend-Build-Pipelines um Hot-Reloading
+- Entwickelte Deployment-Prozesse und leistete Wartung und Support für Kundenprojekte
+- Realisierte nahezu allein einen kompletten Shop-Relaunch (seiffen.com)
+- Setzte eine Docker-Dev-Umgebung auf (Mailhog, Redis, Elasticsearch, MySQL, phpMyAdmin)
+- Führte Versions- und Datenbank-Migrationen durch
+- Pflege der Kundenkommunikation
+
+**Technologien:** Shopware 5, ES6+, Less, Smarty, Docker, Grunt, Node.js, PHP, Webpack, ESLint, StyleLint, GitHub, Reverse Proxy (jwilder), Mailhog, SSH-Tunneling, Linux
+
+### Frontend Developer
+Neofonie GmbH | Berlin, Germany | 03/2017 – 09/2020
+
+- Entwickelte Frontend-Module für mobile.de, eine der größten Online-Verkaufsplattformen für gebrauchte Fahrzeuge
+- Entwickelte Frontend-Module für die Hauptplattform (bspw. 3D-Innen- und Außenansicht)
+- Führt Cloud-Migration von (Micro-)Services durch
+- Wartete und erweiterte Backoffice-Tools und B2B-Kunden-Tools
+- Entwickelte ein Shopware-Theme-Plugin
+- Arbeitete in internationalen, teamübergreifenden Teams mit über 15 Kollegen
+- Führt Versions- und Datenbank-Migrationen durch
+- Pflege der Bash-Scripting-Automatisierung
+
+**Technologien:** Grunt, Gulp, Webpack, Node.js, ES6+, HTML, Shopware, Vue, Docker, PHP, SCSS, Less, GitHub, Selenium, Nightwatch.js, Java, Linux
+
+### Frontend Developer
+Valid Digitalagentur GmbH | Berlin, Germany | 2015 – 2016
+
+- Entwickelte Corporate Websites in kleinen Teams
+- Entwickelte Frontend-Build-Pipelines
+- Entwickelte Micro-Sites und One-Pager (bspw. für Schindler Aufzüge)
+- Entwickelte ein TYPO3-Frontend für eine Werbeagentur
+
+**Technologien:** Grunt, Node.js, ES6+, PHP, HTML, SCSS, Less, GitHub, Linux
+
+### Frontend Developer
+familie redlich Systeme GmbH | Berlin, Germany | 2015 – 2016
+
+- Entwickelte Frontends für Corporate Websites
+
+**Technologien:** ES5, HTML, CSS, Git, Linux
+
+### Frontend Developer
+Interactive Tools GmbH | Berlin, Germany | 2015
+
+- Entwickelte Frontends für Corporate Websites (bspw. liebherr.de)
+
+**Technologien:** ES5, HTML, CSS, Git, Linux
+
+### Frontend Developer Full-Stack
+Freelancer und Festanstellung | Leipzig, Germany | 2008 – 2015
+
+- Festanstellung bei Unternehmenswelt.de
+- Freelancer mit diversen Kundenprojekten
+- Entwickelte Frontends und Full-Stack-Lösungen für Werbeagentur, Startup, IT-Dienstleister und eigene Kunden
+
+**Technologien:** ES5, PHP, HTML, CSS, GitHub, Linux
+
+### Frontend Developer
+Construktiv GmbH | Bremen, Germany | 2008
+
+- Entwickelte Frontends für Corporate Websites
+- Entwickelte Mister Wong (Social Bookmarking)
+- Entwickelte ein Firefox-Plugin (Mister Wong)
+
+**Technologien:** ES5, HTML, CSS, Git, Linux
+
+### Mitgründer, Gesellschafter, Mediendesigner, Web-Entwickler
+XEBEC Mediafactory GmbH | Regensburg, Germany | 1999 – 2002
+
+- Mitgründung und Aufbau des Unternehmens
+- Entwickelte eine Online-Verkaufsplattform für eine Pressebild-Agentur
+- Entwickelte eine Corporate Website für einen DSL-Anbieter in München
+- Entwickelte eine virtuelle Fertigungsstrecke in VRML für einen bekannten Chip-Hersteller
+
+**Technologien:** ES5, HTML, CSS, Dreamweaver, MooTools
+
+### Selbstständig (Fernseh- und Videoproduktion)
+Halle (Saale), Germany | 1997 – 1999
+
+- 3D-Animation (Immobilien, Prozesse und Anlagen, Flying Logos)
+- Ü-Wagen-Techniker
+- Tontechniker
+- Kameramann für Live-Sportübertragungen
+
+**Technologien:** Lightwave 3D, Photoshop, Flash, Dreamweaver, MooTools, Amiga
+
+### Mediendesigner
+AV-Studio | Halle (Saale), Germany | 1996 – 1997
+
+- 3D-Animation und Visualisierung
+- CD-Produktion „Halle der Wirtschaftsstandort"
+- Macromedia Flash
+
+**Technologien:** Lightwave 3D, Photoshop, Flash, Dreamweaver, MooTools
+
+### Medienproduktion (Freelance)
+Halle (Saale), Germany | 1991 – 1996
+
+- 3D-Animation und Visualisierung für „RTL-Boxmanager"
+- On-Air-Grafik
+- EB-Assistent
+- DFÜ-Mailbox-Betrieb
+
+**Technologien:** Lightwave 3D, Photoshop, Dreamweaver, Deluxe Paint, Soundtracker / Pro-Tracker, Demo Maker, Scala
+
+---
+
+## PROJEKTE
+
+### mediamtx-ui
+Web-UI für den MediaMTX-Streaming-Server: Konfiguration, Runtime, Metriken, Recordings und Live-Logs. Dependency-freie Vanilla-JS-Dashboard-UI, dockerisiert.
+https://github.com/seekwhencer/mediamtx-ui
+
+### gitea-qdrant-sync
+RAG + MCP + Web-UI: Semantische Suche über Markdown-Dateien in Gitea via Webhook, angetrieben von lokalen LLMs (Ollama / llama.cpp) und Qdrant.
+https://github.com/seekwhencer/gitea-qdrant-sync
+
+### node-rtl433-ui
+Web-UI und Server-App zum Mappen von 433-MHz-Devices auf MQTT-Topics. Node.js-Server als MQTT-Client.
+https://github.com/seekwhencer/node-rtl433-ui
+
+### spotify-kidsplayer
+Vereinfachte Web-UI für Kinder mit Parental Control auf einem Raspberry Pi: Text-to-Speech, Parent-Mode mit PIN, lokale Datenbank.
+https://github.com/seekwhencer/spotify-kidsplayer
+
+### node-radio-automation
+Playlist-Automation: Automatische Radio-Stream-Erzeugung per Sendung und Wochenplan. Orchestrierung mehrerer Playlist-Audio-Streams mit Hot-Rotation, Intros, Spots und Podcasts.
+https://github.com/seekwhencer/node-radio-automation
+
+### nodejs-tesseract-imagemagick-docker
+Node.js-App und Docker-Setup zur Texterkennung (Tesseract + ImageMagick) von Kontoauszügen und Umwandlung in strukturierte Daten.
+https://github.com/seekwhencer/nodejs-tesseract-imagemagick-docker
+
+### nodemcu-lightdome
+Custom IoT-Device zur 360°-Lichtstärkemessung mit vier Photo-Widerständen, veröffentlicht auf MQTT.
+https://github.com/seekwhencer/nodemcu-lightdome
+
+### skwncr-kachelcast-panel
+Grafana-Panel-Plugin (React) für Wettervorhersage.
+https://github.com/seekwhencer/skwncr-kachelcast-panel
+
+### node-mqtt-transponder
+MQTT-Transponder, gebaut mit Node.js.
+https://github.com/seekwhencer/node-mqtt-transponder
+
+### gamepad-browser-mqtt
+Liest einen Game-Controller im Browser und sendet die Daten an einen MQTT-Broker.
+https://github.com/seekwhencer/gamepad-browser-mqtt
+
+### bundesapi-jobsuche-client
+Web-Client für die Jobsuche-API der Bundesagentur für Arbeit.
+https://github.com/seekwhencer/bundesapi-jobsuche-client
+
+### ffmpeg-rekorder
+Raspberry-Pi-Setup für einen IP-Kamera-Recorder.
+https://github.com/seekwhencer/ffmpeg-rekorder
+
+### drone-boat-dashboard / drone-boat-client
+Open Research Buoy: Echtzeit-Steuerung via Mobilfunk und Websockets einer Citizen-Science-Boje. Web-Frontend und Client-App für eine Drohnen-Boje, läuft auf einem Raspberry Pi mit MQTT-Broker.
+https://github.com/seekwhencer/drone-boat-dashboard
+https://github.com/seekwhencer/drone-boat-client
+
+### node-image-server-gallery
+Image-Gallery-Server mit Node.js: Image-Browser mit on-demand-Thumbnail-Erzeugung.
+https://github.com/seekwhencer/node-image-server-gallery
+
+### tech-radar-server
+Tech-Radar: Refactoring von Amazon's Techradar mit Three.js.
+https://github.com/seekwhencer/tech-radar-server
+
+### skwncr (eigene Website)
+Eigene Website: Vanilla JavaScript meets Web Components. SSR/CSR-Frontend, Data-Layer (JSON aus Markdown), Server (SSR, Thumbnails, PDF), alles in einem Docker-Image.
+https://github.com/seekwhencer/skwncr
+https://skwncr.net
+
+### Weitere Projekte
+- LAN DNS und Proxy: LAN-Setup mit DNS und Proxy für eigene Domains im LAN
+- Umfrage-Tool: Hochschul-Projekt mit der University of Europe for Applied Science Berlin
+- Web-Client für Video-Streaming-Server
+- Heizungs-Überwachung: Custom IoT-Device zur Überwachung einer Öl-Heizung mit zwei Heizkreisen
+- Lux-Messung: Custom IoT-Device zur Messung von Lichtstärke
+- Smart Home Automation: Infrastruktur und Server-App zur Erfassung von Umweltdaten und Steuerung von Zigbee-Geräten
+- DSLR Streaming / Recording: Rucksack mit Technik und Strom für lange Video-Aufnahmen mit DSLR in 4K
+- Quizzner: Quiz-Spiel als Frontend-App
+- Frontend Developer's Survival Suit Case: Off-Grid-Setup für Hackathons
+- Webbasierter Buch-Scanner per Webcam / DSLR
+- Kurzsüchtig Kurzfilmfestival Leipzig: Website und Backoffice-Tool
+- Stadtgiraffe: Online-Veranstaltungskalender für Leipzig
+
+---
+
+## AUSBILDUNG
+
+### Studium Digitale Medien
+Hochschule für Künste (HfK) Bremen | 09/2003 – 07/2008
+Crossover aus Design und IT. Kurse an der Uni Bremen (Informatik) und an der HfK Bremen (Design). Schwerpunkte: Konzept, Experimente, Installation, Neue Medien.
+
+### Fachabitur Gestaltung
+Adolph-Kolping-Schule, Münster | 08/2002 – 07/2003
+Fachoberschule, 12. Klasse im Schnelldurchgang.
+
+---
+
+## ZERTIFIZIERUNGEN UND WEITERBILDUNG
+
+- Laufende Weiterbildung in Local AI (llama.cpp, Ollama, RAG, MCP)
+- Laufende Weiterbildung in Web Components, TypeScript, React, Next.js
+- Erfahrung in Scrum, Kanban und agilen Methoden
+
+---
+
+## SERVICES / LEISTUNGEN ALS KLEINUNTERNEHMER
+
+- Entwicklung: Software-Entwicklung mit JavaScript für Frontend und Backend
+- Wartung: Updates, Datenmigration, Backup, Feature-Nachrüstung
+- Beratung: Technische Beratung und Architektur
+- Lösungen: Etablierte Open-Source-Lösungen
+- Edge Computing: Internet der Dinge mit Raspberry Pi und ESP
+- Smart Home: Sensoren und Aktoren für daheim und in der Industrie
+- Workshops: Know-How-Transfer und pädagogische Konzepte für digitale Themen
+- Nachbarschaftshilfe: Digitale Lebenshilfe
+
+---
