@@ -6,6 +6,8 @@ Node.js-focused full-stack developer with 20+ years of experience building compl
 
 I'm exploring **generative UI** — interfaces that compose and adapt themselves around the task instead of a fixed set of screens. And I care about **sovereign, on-prem AI**: running models on your own hardware, keeping your data, your stack and your autonomy in your own hands.
 
+> 📄 [llms.txt](./llms.txt) — machine-readable profile for LLMs & ATS
+
 ---
 
 ## What I do
@@ -30,8 +32,8 @@ I'm exploring **generative UI** — interfaces that compose and adapt themselves
 - CI/CD & deployment automation
 - Performance optimization
 - Technical consulting & architecture
-- Mentoring & team leadership
-- Client communication & project management
+- Mentoring & team leadership (maybe)
+- Client communication & project management (maybe)
 
 ---
 
