@@ -91,6 +91,12 @@ I'm exploring **generative UI** — interfaces that compose and adapt themselves
 
 <table>
   <tr>
+    <td colspan="2" align="center" valign="top">
+      <a href="https://github.com/seekwhencer/vui-web"><img src="https://raw.githubusercontent.com/seekwhencer/vui-web/refs/heads/master/.docs/screenshots/dashboard-dark.png" alt="vui-web" /></a>
+      <p><b><a href="https://github.com/seekwhencer/vui-web">vui-web</a></b><br/>Self-hosted, real-time speech-to-text web app — browser microphone capture, WebSocket streaming to a Node.js server, transcription with faster-whisper on local GPU. No cloud, no API keys.</p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/seekwhencer/mediamtx-ui"><img src="https://raw.githubusercontent.com/seekwhencer/mediamtx-ui/refs/heads/master/.docs/screenshots/dark_dashboard.png" alt="mediamtx-ui" /></a>
       <p><b><a href="https://github.com/seekwhencer/mediamtx-ui">mediamtx-ui</a></b><br/>Web-based admin dashboard for the MediaMTX streaming server — configuration, runtime, metrics, recordings and live logs.</p>
@@ -116,7 +122,6 @@ I'm exploring **generative UI** — interfaces that compose and adapt themselves
 
 ## More Projects
 
-- **vui-web** — self-hosted, real-time speech-to-text web app: browser microphone capture, WebSocket streaming to a Node.js server, transcription with faster-whisper on local GPU. No cloud, no API keys. [github](https://github.com/seekwhencer/vui-web)
 - **node-radio-automation** — automatic radio stream generation per schedule; orchestration of multiple playlist audio streams with hot rotation, intros, spots and podcasts. [github](https://github.com/seekwhencer/node-radio-automation)
 - **nodejs-tesseract-imagemagick-docker** — Node.js app + Docker setup for OCR of bank statements (Tesseract + ImageMagick) into structured data. [github](https://github.com/seekwhencer/nodejs-tesseract-imagemagick-docker)
 - **nodemcu-lightdome** — custom IoT device for 360° light measurement with four photo resistors, published on MQTT. [github](https://github.com/seekwhencer/nodemcu-lightdome)
