@@ -206,6 +206,10 @@ https://github.com/seekwhencer/node-rtl433-ui
 Vereinfachte Web-UI für Kinder mit Parental Control auf einem Raspberry Pi: Text-to-Speech, Parent-Mode mit PIN, lokale Datenbank.
 https://github.com/seekwhencer/spotify-kidsplayer
 
+### vui-web
+Self-hosted, Echtzeit-Speech-to-Text-Web-App: Mikrofon-Aufnahme im Browser, WebSocket-Streaming zu einem Node.js-Server, Transkription mit faster-whisper auf lokaler GPU. Keine Cloud, keine API-Keys. React 19, Vite, Node.js 20+, Docker Compose, NVIDIA GPU.
+https://github.com/seekwhencer/vui-web
+
 ### node-radio-automation
 Playlist-Automation: Automatische Radio-Stream-Erzeugung per Sendung und Wochenplan. Orchestrierung mehrerer Playlist-Audio-Streams mit Hot-Rotation, Intros, Spots und Podcasts.
 https://github.com/seekwhencer/node-radio-automation

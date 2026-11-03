@@ -116,6 +116,7 @@ I'm exploring **generative UI** — interfaces that compose and adapt themselves
 
 ## More Projects
 
+- **vui-web** — self-hosted, real-time speech-to-text web app: browser microphone capture, WebSocket streaming to a Node.js server, transcription with faster-whisper on local GPU. No cloud, no API keys. [github](https://github.com/seekwhencer/vui-web)
 - **node-radio-automation** — automatic radio stream generation per schedule; orchestration of multiple playlist audio streams with hot rotation, intros, spots and podcasts. [github](https://github.com/seekwhencer/node-radio-automation)
 - **nodejs-tesseract-imagemagick-docker** — Node.js app + Docker setup for OCR of bank statements (Tesseract + ImageMagick) into structured data. [github](https://github.com/seekwhencer/nodejs-tesseract-imagemagick-docker)
 - **nodemcu-lightdome** — custom IoT device for 360° light measurement with four photo resistors, published on MQTT. [github](https://github.com/seekwhencer/nodemcu-lightdome)
